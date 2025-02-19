@@ -1,6 +1,4 @@
 # Runner Hyper Casual Game 🚀  
-![Game Screenshot 1](https://github.com/user-attachments/assets/3734d045-cb16-4bc7-896a-7d6b5cc5beb0)  
-![Game Screenshot 2](https://github.com/user-attachments/assets/12a799bf-15cc-4c6b-9b00-baf15df57c14)  
 
 ## 🎮 About the Game  
 
